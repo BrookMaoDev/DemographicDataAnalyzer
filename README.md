@@ -15,3 +15,10 @@ Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: Unive
 -   Percentage without higher education that earn >50K: 17.4%
 -   Country with the highest percentage of people who make over 50K a year: Iran (at 41.9%)
 -   Most popular occupation in India: Prof-specialty
+
+## Technologies Used
+
+-   **pandas**: For CSV processing and data analytics.
+-   **unittest**: For running unit tests.
+
+Ensure that you run `pip install -r requirements.txt` before executing `python main.py`.
